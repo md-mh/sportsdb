@@ -1,0 +1,14 @@
+/* import google font  */
+@import url('https://fonts.googleapis.com/css2?family=Abel&display=swap');
+
+body{
+    font-family: 'Abel', sans-serif;
+}
+#error{
+    text-align: center;
+    display: none;
+}
+#spinner{
+    display: none;
+    margin: 150px;
+}
